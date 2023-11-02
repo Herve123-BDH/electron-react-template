@@ -1,0 +1,22 @@
+.container-login{
+    width: 100vw;
+    display: flex;
+}
+.left-container-login{
+    width: 70%;
+}
+.right-container-login{
+    width: 30%;
+}
+.login-input-container{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+
+}
+/* #outlined-password-input{
+    padding: 10px !important;
+} */
+/* .login-input-container input{
+    padding: 100px !important
+} */
